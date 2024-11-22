@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Ipfani Muleya**
 
-Welcome to my GitHub corner! I'm an Honours student specializing in Computer Science at the [University of Pretoria](https://www.up.ac.za/). My journey revolves around blending technology with creativity, especially in cybersecurity, software development, AI, and music.
+Welcome to my GitHub corner! I'm an Honours student specialising in Computer Science at the [University of Pretoria](https://www.up.ac.za/). My journey revolves around blending technology with creativity, especially in cybersecurity, software development, AI, and music.
 
 ## 🌐 About Me
 
