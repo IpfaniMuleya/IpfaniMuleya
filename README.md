@@ -12,7 +12,7 @@ Welcome to my GitHub corner! I'm an Honours student specialising in Computer Sci
 
 - 📧 **Email**: [Muleyaipfani22@gmail.com](mailto:Muleyaipfani22@gmail.com)
 - 💼 **LinkedIn**: [Ipfani Muleya](https://www.linkedin.com/in/ipfanimuleya/)
-- 🌐 **Portfolio**: [Ipfani Muleya](#)
+- 🌐 **Portfolio**: [Ipfani Muleya](https://ipfanimuleya.github.io/ipfani-site/)
 
 ---
 
