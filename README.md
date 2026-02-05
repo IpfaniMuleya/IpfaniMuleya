@@ -26,10 +26,6 @@ Welcome to my GitHub corner! I'm an Masters student specialising in Computer Sci
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
-### Back-End Development
-
-[![Back-End](https://skillicons.dev/icons?i=django,flask,mysql,mongodb,postgres,redis&theme=dark)](https://skillicons.dev)
-
 ### Cybersecurity
 
 [![Cybersecurity](https://skillicons.dev/icons?i=linux,bash,python,kali,powershell&theme=dark)](https://skillicons.dev)
@@ -58,11 +54,13 @@ Welcome to my GitHub corner! I'm an Masters student specialising in Computer Sci
 - 🛡️ **Cybersecurity Projects**:
   - 🔐 **RSA E-D**: This is a simple RSA file encrypter/decypter built in python which allows users to encrypt and decrypt text and files using RSA public-key cryptography. Check it out on: [RSA E-D](https://github.com/IpfaniMuleya/RSA-E-D).
   - 🕵️ **CTF Challenges**: Active participant in Capture The Flag competitions.
+  - <img src="https://tryhackme-badges.s3.amazonaws.com/g41i130.png" alt="Your Image Badge" />
 
 ## What I'm Up To
 
-- Cybersecurity methodologies and ethical hacking techniques.
+- Exploring cybersecurity methodologies and ethical hacking techniques.
 - Building Spring Boot applications with PostgreSQL.
 - Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 
-Feel free to reach out if you're interested in collaboration or just want to chat about tech and cybersecurity! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ipfanimuleya/)
+Feel free to reach out [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ipfanimuleya/)
+ if you're interested in collaboration or just want to chat about tech and cybersecurity! 
