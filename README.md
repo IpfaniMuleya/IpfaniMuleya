@@ -14,8 +14,6 @@ Welcome to my GitHub corner! I'm an Masters student specialising in Computer Sci
 - 💼 **LinkedIn**: [Ipfani Muleya](https://www.linkedin.com/in/ipfanimuleya/)
 - 🌐 **Portfolio**: [Ipfani Muleya](https://ipfanimuleya.github.io/ipfani-site/)
 
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -30,7 +28,7 @@ Welcome to my GitHub corner! I'm an Masters student specialising in Computer Sci
 
 ### Back-End Development
 
-[![Back-End](https://skillicons.dev/icons?i=nodejs,django,flask,mysql,mongodb,postgres,redis&theme=dark)](https://skillicons.dev)
+[![Back-End](https://skillicons.dev/icons?i=django,flask,mysql,mongodb,postgres,redis&theme=dark)](https://skillicons.dev)
 
 ### Cybersecurity
 
@@ -47,8 +45,6 @@ Welcome to my GitHub corner! I'm an Masters student specialising in Computer Sci
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Drools](https://img.shields.io/badge/Drools-%23FF6347.svg?style=for-the-badge&logo=drools&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -57,25 +53,16 @@ Welcome to my GitHub corner! I'm an Masters student specialising in Computer Sci
 
 </div>
 
----
-
 ## 📝 Latest Projects
 
 - 🛡️ **Cybersecurity Projects**:
   - 🔐 **RSA E-D**: This is a simple RSA file encrypter/decypter built in python which allows users to encrypt and decrypt text and files using RSA public-key cryptography. Check it out on: [RSA E-D](https://github.com/IpfaniMuleya/RSA-E-D).
   - 🕵️ **CTF Challenges**: Active participant in Capture The Flag competitions.
 
----
+## What I'm Up To
 
-## 🌱 I’m Currently Learning
-
-- Advanced algorithms and data structures.
-- Game development with Unreal Engine.
 - Cybersecurity methodologies and ethical hacking techniques.
-- Exploring machine learning.
+- Building Spring Boot applications with PostgreSQL.
+- Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 
----
-
-Feel free to reach out if you're interested in collaboration or just want to chat about tech and cybersecurity!
-
----
+Feel free to reach out if you're interested in collaboration or just want to chat about tech and cybersecurity! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ipfanimuleya/)
