@@ -20,15 +20,15 @@ Welcome to my GitHub corner! I'm an Honours student specialising in Computer Sci
 
 ### 💻 Programming Languages
 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,ruby&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i= java,python,c,cpp,javascript&theme=dark)](https://skillicons.dev)
 
 ### 🌐 Front-End Development
 
-[![Front-End](https://skillicons.dev/icons?i=html,css,react,vue,nextjs,jquery&theme=dark)](https://skillicons.dev)
+[![Front-End](https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark)](https://skillicons.dev)
 
 ### 🔧 Back-End Development
 
-[![Back-End](https://skillicons.dev/icons?i=nodejs,django,flask,express,php,mysql,mongodb,postgres,redis&theme=dark)](https://skillicons.dev)
+[![Back-End](https://skillicons.dev/icons?i=nodejs,django,flask,mysql,mongodb,postgres,redis&theme=dark)](https://skillicons.dev)
 
 ### 🛡️ Cybersecurity
 
@@ -36,7 +36,7 @@ Welcome to my GitHub corner! I'm an Honours student specialising in Computer Sci
 
 ### 🎨 Tools
 
-[![Tools](https://skillicons.dev/icons?i=figma,ai,ps,pr,unity,unreal,vscode,vim,&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=figma,vim,&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -44,13 +44,7 @@ Welcome to my GitHub corner! I'm an Honours student specialising in Computer Sci
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IpfaniMuleya&layout=compact&theme=onedark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IpfaniMuleya&show_icons=true&theme=onedark)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=IpfaniMuleya&theme=onedark)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=IpfaniMuleya&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
