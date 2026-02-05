@@ -1,12 +1,12 @@
-# 👋 Hello, I'm **Ipfani Muleya**
+ <h1 align="center">👋 Hi, I'm Ipfani Muleya</h1>
 
-Welcome to my GitHub corner! I'm an Honours student specialising in Computer Science at the [University of Pretoria](https://www.up.ac.za/). My journey revolves around blending technology with creativity, especially in cybersecurity, software development, AI, and music.
+Welcome to my GitHub corner! I'm an Masters student specialising in Computer Science at the [University of Pretoria](https://www.up.ac.za/). My journey revolves around blending technology with creativity, especially in cybersecurity, software development, AI, and music.
 
-## 🌐 About Me
+# 💫 About Me:
 
-- 🎓 **Education**: Pursuing Honours in Computer Science. Currently doing research in cybersecurity (machine learning based data recovery).
+- 🎓 **Education**: Pursuing Masters in Computer Science. Currently doing research in cybersecurity (machine learning based data recovery).
 - 🛠️ **Work**: Freelancer.
-- 🎮 **Interests**: Cyber-Security, Software Development, Game Development, and Immersive Technologies.
+- 🎮 **Interests**: Cyber-Security, Software Development, Game Development, and PLC's.
 
 ## 📫 Get in Touch
 
@@ -16,27 +16,36 @@ Welcome to my GitHub corner! I'm an Honours student specialising in Computer Sci
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
-[![Languages](https://skillicons.dev/icons?i= java,python,c,cpp,javascript&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,javascript&theme=dark)](https://skillicons.dev)
 
-### 🌐 Front-End Development
+### Developer Tools
 
-[![Front-End](https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark)](https://skillicons.dev)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
-### 🔧 Back-End Development
+### Back-End Development
 
 [![Back-End](https://skillicons.dev/icons?i=nodejs,django,flask,mysql,mongodb,postgres,redis&theme=dark)](https://skillicons.dev)
 
-### 🛡️ Cybersecurity
+### Cybersecurity
 
-[![Cybersecurity](https://skillicons.dev/icons?i=linux,bash,python,kali,powershell,docker,raspberrypi&theme=dark)](https://skillicons.dev)
+[![Cybersecurity](https://skillicons.dev/icons?i=linux,bash,python,kali,powershell&theme=dark)](https://skillicons.dev)
 
-### 🎨 Tools
+### Libraries/Frameworks
 
-[![Tools](https://skillicons.dev/icons?i=figma,vim,&theme=dark)](https://skillicons.dev)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Drools](https://img.shields.io/badge/Drools-%23FF6347.svg?style=for-the-badge&logo=drools&logoColor=white)
 
 ---
 
