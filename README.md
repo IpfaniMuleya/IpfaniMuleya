@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ipfani Muleya</h1>
 
 <p align="center">
-  <b>Software engineer and security graduate</b> · BSc (Hons) Computer Science, University of Pretoria · Top 1% on TryHackMe<br>
   Looking for <b>SOC analyst / cyber security</b> and <b>full-stack software engineering</b> graduate roles.<br>
+  BSc (Hons) Computer Science, University of Pretoria · <b>Top 1% on TryHackMe</b><br>
   Open to work anywhere and willing to relocate.
 </p>
 
@@ -15,9 +15,8 @@
 
 ---
 
-I build software with security designed in from the start, and I like
-proving it works: reproducing the bug before fixing it, testing under real
-concurrency, and keeping dependencies patched.
+In my [BidOu](https://github.com/IpfaniMuleya/bidou-showcase) auction platform I
+found a Redis lock race, reproduced it with a 40-bidder test and fixed it.
 
 ## Featured work
 
